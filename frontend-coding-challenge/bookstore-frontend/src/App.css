@@ -1,0 +1,25 @@
+/* App.css */
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 1rem;
+  min-height: 100vh; /* Adjust if needed to take full height */
+  background-color: #eaeaea; /* Your preferred background color */
+}
+
+/* Additional global styles */
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+

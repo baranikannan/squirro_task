@@ -1,0 +1,144 @@
+.bookstore {
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: auto 1fr auto;
+  max-width: 100%;
+  margin: auto;
+  margin-bottom: 20px;
+  overflow: hidden;
+  background-color: hsl(0, 2%, 55%);
+  padding: 20px; 
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  color: #1a07bedc;
+}
+
+
+.bookstore-header {
+  grid-column: 1 / -1; /* Full width */
+  display: flex;
+  align-items: center;
+  background: #f0f0f0;
+  padding: 1rem;
+}
+
+.bookstore-image {
+  width: 120px; /* Fixed width, adjust as necessary */
+  height: 120px; /* Fixed height, keep it square */
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 1rem;
+}
+
+.bookstore-established {
+  color: #1a1a1a; /* slightly darker for better contrast */
+}
+.bookstore-name {
+  font-size: 1.5rem;
+  margin: 0;
+  font-weight: 700;
+  color: hsl(0, 83%, 14%);
+}
+
+.bookstore-rating {
+  margin-left: auto;
+  color: hsl(0, 83%, 14%);
+  /* Add styles for stars */
+}
+
+.bookstore-body {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.bookstore-book {
+  margin: 0.5rem 0;
+}
+
+.no-data {
+  margin: 0.5rem 0;
+}
+
+.bookstore-footer {
+  grid-column: 1 / -1; /* Full width */
+  background: #e8e8e8;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.bookstore-footer .bookstore-website {
+  margin-right: auto; /* This pushes the link to the left */
+}
+
+.bookstore-website {
+  margin-left: auto;
+  font-weight: 400;
+  /* Style for the link */
+}
+
+.bookstore-flag {
+  width: 32px;
+  height: auto;
+  margin-left: 1rem;
+}
+
+/* Responsive adjustments if needed */
+@media (max-width: 768px) {
+  .bookstore {
+    grid-template-columns: 1fr;
+  }
+
+  .bookstore-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .bookstore-image {
+    margin-right: 0;
+    margin-bottom: 1rem;
+  }
+
+  .bookstore-footer {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .bookstore-flag {
+    margin-top: 1rem;
+  }
+}
+
+.book-name::after {
+  content: "  "; /* This is the separator */
+  padding-right: 5px; /* Adjust the space as needed */
+  font-weight: 400;
+}
+
+.author-name {
+  padding-left: 5px; /* Adjust the space as needed */
+  font-style: italic; 
+  font-weight: 400;
+}
+
+.separator {
+  padding: 0 5px; /* Adjust the space as needed */
+}
+
+
+body {
+  font-family: 'Roboto', sans-serif; /* Roboto is good for body text because it's clear and neutral */
+}
+
+h1, h2, h3 {
+  font-family: 'Merriweather', serif; /* Merriweather for headings adds a touch of elegance */
+}
+
+.book-name {
+  font-weight: 500; /* Slightly bolder font for book names */
+}
+
