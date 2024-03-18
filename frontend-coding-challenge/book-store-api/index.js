@@ -113,7 +113,7 @@ new FakeServer({
                     type: 'books',
                     id: '1',
                     attributes: {
-                        name: 'JavaScript: The Good Parts',
+                    // 
                         copiesSold: 154
                     },
                     relationships: {

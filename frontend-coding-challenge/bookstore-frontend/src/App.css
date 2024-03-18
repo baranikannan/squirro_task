@@ -23,3 +23,37 @@ body, html {
   box-sizing: inherit;
 }
 
+.error-page {
+  background-image: url('wait.jpeg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #333; /* Change text color for better contrast */
+}
+
+.error-message {
+  background-color: #ffffffcc; /* Light background for text for readability */
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px 0;
+  max-width: 600px; /* Maximum width of the text block */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+  text-align: center;
+}
+
+.error-message h2 {
+  color: #D8000C;
+  margin-bottom: 20px;
+}
+
+.error-message p {
+  color: #4F8A10;
+  margin-bottom: 10px;
+  font-size: 1.2em; /* Slightly larger font size for the message */
+}
+
+
