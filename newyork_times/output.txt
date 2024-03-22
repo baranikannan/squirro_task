@@ -12542,6 +12542,171 @@ Article 14:
 }
 Article 15:
 {
+  "abstract": "Laura Arrillaga-Andreessen, wife of the Netscape co-founder Marc Andreessen, wants all tech titans to be famous for their charitable work, too.",
+  "web_url": "https://www.nytimes.com/2011/12/18/business/a-philanthropy-reboot-in-silicon-valley.html",
+  "snippet": "Laura Arrillaga-Andreessen, wife of the Netscape co-founder Marc Andreessen, wants all tech titans to be famous for their charitable work, too.",
+  "lead_paragraph": "PALO ALTO, Calif. ",
+  "print_section": "BU",
+  "print_page": "6",
+  "source": "The New York Times",
+  "multimedia": [
+    {
+      "rank": 0,
+      "subtype": "xlarge",
+      "caption": null,
+      "credit": null,
+      "type": "image",
+      "url": "images/2011/12/18/business/18-ANDREESSEN2/18-ANDREESSEN2-articleLarge.jpg",
+      "height": 370,
+      "width": 600,
+      "legacy": {
+        "xlarge": "images/2011/12/18/business/18-ANDREESSEN2/18-ANDREESSEN2-articleLarge.jpg",
+        "xlargewidth": 600,
+        "xlargeheight": 370
+      },
+      "subType": "xlarge",
+      "crop_name": "articleLarge"
+    },
+    {
+      "rank": 0,
+      "subtype": "blog480",
+      "caption": null,
+      "credit": null,
+      "type": "image",
+      "url": "images/2011/12/18/business/18-ANDREESSEN2/18-ANDREESSEN2-blog480.jpg",
+      "height": 387,
+      "width": 480,
+      "legacy": {},
+      "subType": "blog480",
+      "crop_name": "blog480"
+    },
+    {
+      "rank": 0,
+      "subtype": "tmagArticle",
+      "caption": null,
+      "credit": null,
+      "type": "image",
+      "url": "images/2011/12/18/business/18-ANDREESSEN2/18-ANDREESSEN2-tmagArticle.jpg",
+      "height": 478,
+      "width": 592,
+      "legacy": {},
+      "subType": "tmagArticle",
+      "crop_name": "tmagArticle"
+    },
+    {
+      "rank": 0,
+      "subtype": "jumbo",
+      "caption": null,
+      "credit": null,
+      "type": "image",
+      "url": "images/2011/12/18/business/18-ANDREESSEN2/18-ANDREESSEN2-jumbo.jpg",
+      "height": 826,
+      "width": 1024,
+      "legacy": {},
+      "subType": "jumbo",
+      "crop_name": "jumbo"
+    },
+    {
+      "rank": 0,
+      "subtype": "popup",
+      "caption": null,
+      "credit": null,
+      "type": "image",
+      "url": "images/2011/12/18/business/18-ANDREESSEN2/18-ANDREESSEN2-articleLarge.jpg",
+      "height": 370,
+      "width": 600,
+      "legacy": {},
+      "subType": "popup",
+      "crop_name": "popup"
+    },
+    {
+      "rank": 0,
+      "subtype": "thumbnail",
+      "caption": null,
+      "credit": null,
+      "type": "image",
+      "url": "images/2011/12/18/business/18-ANDREESSEN2/18-ANDREESSEN2-thumbStandard.jpg",
+      "height": 75,
+      "width": 75,
+      "legacy": {
+        "thumbnail": "images/2011/12/18/business/18-ANDREESSEN2/18-ANDREESSEN2-thumbStandard.jpg",
+        "thumbnailwidth": 75,
+        "thumbnailheight": 75
+      },
+      "subType": "thumbnail",
+      "crop_name": "thumbStandard"
+    }
+  ],
+  "headline.main": "Rebooting Philanthropy in Silicon Valley",
+  "headline.kicker": null,
+  "headline.content_kicker": null,
+  "headline.print_headline": "Rebooting Philanthropy In Silicon Valley",
+  "headline.name": null,
+  "headline.seo": null,
+  "headline.sub": null,
+  "keywords": [
+    {
+      "name": "subject",
+      "value": "Entrepreneurship",
+      "rank": 1,
+      "major": "N"
+    },
+    {
+      "name": "persons",
+      "value": "Andreessen, Marc L",
+      "rank": 2,
+      "major": "N"
+    },
+    {
+      "name": "glocations",
+      "value": "Silicon Valley (Calif)",
+      "rank": 3,
+      "major": "N"
+    },
+    {
+      "name": "subject",
+      "value": "Philanthropy",
+      "rank": 4,
+      "major": "N"
+    },
+    {
+      "name": "organizations",
+      "value": "Netscape",
+      "rank": 5,
+      "major": "N"
+    },
+    {
+      "name": "subject",
+      "value": "Computers and the Internet",
+      "rank": 6,
+      "major": "N"
+    }
+  ],
+  "pub_date": "2011-12-17T21:40:13+0000",
+  "document_type": "article",
+  "news_desk": "NAT",
+  "section_name": "Business Day",
+  "byline.original": "By Claire Cain Miller",
+  "byline.person": [
+    {
+      "firstname": "Claire",
+      "middlename": "Cain",
+      "lastname": "Miller",
+      "qualifier": null,
+      "title": null,
+      "role": "reported",
+      "organization": "",
+      "rank": 1
+    }
+  ],
+  "byline.organization": null,
+  "type_of_material": "News",
+  "_id": "nyt://article/701df39c-cc5f-5cf7-b274-6e40d0c2a332",
+  "word_count": 1378,
+  "uri": "nyt://article/701df39c-cc5f-5cf7-b274-6e40d0c2a332"
+}
+Article 16:
+{
   "abstract": "Venture capitalists may actually welcome some of the consequences of leaner times, which could lower costs, decrease competition and toughen up start-ups.",
   "web_url": "https://www.nytimes.com/2015/08/27/technology/the-upside-of-a-downturn-in-silicon-valley.html",
   "snippet": "Venture capitalists may actually welcome some of the consequences of leaner times, which could lower costs, decrease competition and toughen up start-ups.",
@@ -13313,171 +13478,6 @@ Article 15:
   "_id": "nyt://article/79af8eb9-3e15-5a69-a500-5cc126368c1b",
   "word_count": 1297,
   "uri": "nyt://article/79af8eb9-3e15-5a69-a500-5cc126368c1b"
-}
-Article 16:
-{
-  "abstract": "Laura Arrillaga-Andreessen, wife of the Netscape co-founder Marc Andreessen, wants all tech titans to be famous for their charitable work, too.",
-  "web_url": "https://www.nytimes.com/2011/12/18/business/a-philanthropy-reboot-in-silicon-valley.html",
-  "snippet": "Laura Arrillaga-Andreessen, wife of the Netscape co-founder Marc Andreessen, wants all tech titans to be famous for their charitable work, too.",
-  "lead_paragraph": "PALO ALTO, Calif. ",
-  "print_section": "BU",
-  "print_page": "6",
-  "source": "The New York Times",
-  "multimedia": [
-    {
-      "rank": 0,
-      "subtype": "xlarge",
-      "caption": null,
-      "credit": null,
-      "type": "image",
-      "url": "images/2011/12/18/business/18-ANDREESSEN2/18-ANDREESSEN2-articleLarge.jpg",
-      "height": 370,
-      "width": 600,
-      "legacy": {
-        "xlarge": "images/2011/12/18/business/18-ANDREESSEN2/18-ANDREESSEN2-articleLarge.jpg",
-        "xlargewidth": 600,
-        "xlargeheight": 370
-      },
-      "subType": "xlarge",
-      "crop_name": "articleLarge"
-    },
-    {
-      "rank": 0,
-      "subtype": "blog480",
-      "caption": null,
-      "credit": null,
-      "type": "image",
-      "url": "images/2011/12/18/business/18-ANDREESSEN2/18-ANDREESSEN2-blog480.jpg",
-      "height": 387,
-      "width": 480,
-      "legacy": {},
-      "subType": "blog480",
-      "crop_name": "blog480"
-    },
-    {
-      "rank": 0,
-      "subtype": "tmagArticle",
-      "caption": null,
-      "credit": null,
-      "type": "image",
-      "url": "images/2011/12/18/business/18-ANDREESSEN2/18-ANDREESSEN2-tmagArticle.jpg",
-      "height": 478,
-      "width": 592,
-      "legacy": {},
-      "subType": "tmagArticle",
-      "crop_name": "tmagArticle"
-    },
-    {
-      "rank": 0,
-      "subtype": "jumbo",
-      "caption": null,
-      "credit": null,
-      "type": "image",
-      "url": "images/2011/12/18/business/18-ANDREESSEN2/18-ANDREESSEN2-jumbo.jpg",
-      "height": 826,
-      "width": 1024,
-      "legacy": {},
-      "subType": "jumbo",
-      "crop_name": "jumbo"
-    },
-    {
-      "rank": 0,
-      "subtype": "popup",
-      "caption": null,
-      "credit": null,
-      "type": "image",
-      "url": "images/2011/12/18/business/18-ANDREESSEN2/18-ANDREESSEN2-articleLarge.jpg",
-      "height": 370,
-      "width": 600,
-      "legacy": {},
-      "subType": "popup",
-      "crop_name": "popup"
-    },
-    {
-      "rank": 0,
-      "subtype": "thumbnail",
-      "caption": null,
-      "credit": null,
-      "type": "image",
-      "url": "images/2011/12/18/business/18-ANDREESSEN2/18-ANDREESSEN2-thumbStandard.jpg",
-      "height": 75,
-      "width": 75,
-      "legacy": {
-        "thumbnail": "images/2011/12/18/business/18-ANDREESSEN2/18-ANDREESSEN2-thumbStandard.jpg",
-        "thumbnailwidth": 75,
-        "thumbnailheight": 75
-      },
-      "subType": "thumbnail",
-      "crop_name": "thumbStandard"
-    }
-  ],
-  "headline.main": "Rebooting Philanthropy in Silicon Valley",
-  "headline.kicker": null,
-  "headline.content_kicker": null,
-  "headline.print_headline": "Rebooting Philanthropy In Silicon Valley",
-  "headline.name": null,
-  "headline.seo": null,
-  "headline.sub": null,
-  "keywords": [
-    {
-      "name": "subject",
-      "value": "Entrepreneurship",
-      "rank": 1,
-      "major": "N"
-    },
-    {
-      "name": "persons",
-      "value": "Andreessen, Marc L",
-      "rank": 2,
-      "major": "N"
-    },
-    {
-      "name": "glocations",
-      "value": "Silicon Valley (Calif)",
-      "rank": 3,
-      "major": "N"
-    },
-    {
-      "name": "subject",
-      "value": "Philanthropy",
-      "rank": 4,
-      "major": "N"
-    },
-    {
-      "name": "organizations",
-      "value": "Netscape",
-      "rank": 5,
-      "major": "N"
-    },
-    {
-      "name": "subject",
-      "value": "Computers and the Internet",
-      "rank": 6,
-      "major": "N"
-    }
-  ],
-  "pub_date": "2011-12-17T21:40:13+0000",
-  "document_type": "article",
-  "news_desk": "NAT",
-  "section_name": "Business Day",
-  "byline.original": "By Claire Cain Miller",
-  "byline.person": [
-    {
-      "firstname": "Claire",
-      "middlename": "Cain",
-      "lastname": "Miller",
-      "qualifier": null,
-      "title": null,
-      "role": "reported",
-      "organization": "",
-      "rank": 1
-    }
-  ],
-  "byline.organization": null,
-  "type_of_material": "News",
-  "_id": "nyt://article/701df39c-cc5f-5cf7-b274-6e40d0c2a332",
-  "word_count": 1378,
-  "uri": "nyt://article/701df39c-cc5f-5cf7-b274-6e40d0c2a332"
 }
 Article 17:
 {
